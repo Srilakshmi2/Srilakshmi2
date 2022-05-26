@@ -1,9 +1,9 @@
 Hi,
 
 ### About me:
-- :zap: I am analytics execution lead for end-to end data management, machine learning and data visualization
-- :zap: I focus on enhancing data-driven decision-making within a cross-functional team
-- :zap: I operate in a fast-paced, agile environment
+- :zap: Analytics execution lead for end-to end data management, machine learning and data visualization
+- :zap: Focus on enhancing data-driven decision-making within a cross-functional team
+- :zap: Operate in a fast-paced, agile environment
 - 📫 How to find me: 
   - :office: [LinkedIn](www.linkedin.com/in/csrilakshmi)
 
